@@ -3,6 +3,8 @@ The resolution of the MAD Paradox in 2015 led to the solution of the P vs. NP pr
 
 The same argument as on the site is in [PROOF.md](PROOF.md).
 
+It is also stated in Lean 4 in [PEqualsNP.lean](PEqualsNP.lean): the four claims are hypotheses, and Lean checks that the closing claim follows from them. Check it with `lean PEqualsNP.lean` (Lean 4.36.0, no dependencies).
+
 ## The site
 
 [pequalsnp.org](https://pequalsnp.org) is a single static page: the thesis, four claims, and a margin graph that draws the argument (one path, a fork that holds both answers, and the merge where it collapses).
