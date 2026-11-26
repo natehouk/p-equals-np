@@ -1,6 +1,8 @@
 # p-equals-np
 The resolution of the MAD Paradox in 2015 led to the solution of the P vs. NP problem.
 
+The same argument as on the site is in [PROOF.md](PROOF.md).
+
 ## The site
 
 [pequalsnp.org](https://pequalsnp.org) is a single static page: the thesis, four claims, and a margin graph that draws the argument (one path, a fork that holds both answers, and the merge where it collapses).
