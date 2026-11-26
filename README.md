@@ -1,7 +1,7 @@
 # p-equals-np
 The resolution of the MAD Paradox in 2015 led to the solution of the P vs. NP problem.
 
-The argument in proof form, with its status in the standard formulation, is in [PROOF.md](PROOF.md).
+The same argument as on the site is in [PROOF.md](PROOF.md).
 
 ## The site
 
